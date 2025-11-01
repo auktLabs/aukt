@@ -1,4 +1,3 @@
+# Week 16 dev log
 
-## Entry 3
-
-Caught a scale issue in the auctioneer silhouette at 1x zoom.
+Short notes for the running dev diary.
