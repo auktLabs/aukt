@@ -1,4 +1,3 @@
+# Week 10 dev log
 
-## Entry 2
-
-Tested the bell rhythm against a real hall recording.
+Short notes for the running dev diary.
