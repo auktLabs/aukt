@@ -1,4 +1,3 @@
+# Week 21 dev log
 
-## Entry 2
-
-Reworked the stall spacing pattern after a playtest.
+Short notes for the running dev diary.
