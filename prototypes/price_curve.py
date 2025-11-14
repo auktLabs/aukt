@@ -7,3 +7,7 @@ def price_curve(start, floor, steps):
 
 def add_jitter(values, amp, rng):
     return [v + rng.uniform(-amp, amp) for v in values]
+
+
+def linear_tick(value, drop):
+    return max(value - drop, 0)
