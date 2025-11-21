@@ -1,4 +1,3 @@
+# Week 11 dev log
 
-## Entry 2
-
-Playtested one full market run in 14 minutes. Good baseline.
+Short notes for the running dev diary.
