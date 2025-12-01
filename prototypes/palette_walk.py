@@ -8,3 +8,7 @@ PALETTE = {
     'red': '#E63946',
     'green': '#06A77D',
 }
+
+
+def active_outline():
+    return pair('cyan', 'bg')
