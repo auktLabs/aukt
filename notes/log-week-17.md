@@ -1,4 +1,3 @@
+# Week 17 dev log
 
-## Entry 2
-
-Hit a snag with parallax drift at sprint speed; logged a fix.
+Short notes for the running dev diary.
