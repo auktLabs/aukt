@@ -1,4 +1,3 @@
+# Week 07 dev log
 
-## Entry 1
-
-Recut the opening bell so the gap reads without volume cues.
+Short notes for the running dev diary.
