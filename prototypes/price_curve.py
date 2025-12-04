@@ -11,3 +11,7 @@ def add_jitter(values, amp, rng):
 
 def linear_tick(value, drop):
     return max(value - drop, 0)
+
+
+def tick_window(bps, ms_per_tick):
+    return [i * ms_per_tick for i in range(bps)]
