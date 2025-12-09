@@ -1,4 +1,3 @@
+# Auctioneer silhouette
 
-## Update 2
-
-Shout loop is six frames. Frame three is the peak; the arm goes fully extended and the bell occupies the brightest two pixels on the entire canvas.
+32x48 canvas. Head takes roughly the top 14 rows, trunk 20, legs 14. Keep the brass bell slightly above the belt line so it reads from across the hall even at 2x zoom.
