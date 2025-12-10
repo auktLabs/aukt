@@ -1,4 +1,3 @@
+# SFX budget
 
-## Update 2
-
-Bell samples are mono, no reverb, high-cut at 8kHz. Keeps them readable against the background murmur.
+Hard cap of twelve active samples. Anything above that starts to feel like a street, not a hall. The hall is loud but focused.
