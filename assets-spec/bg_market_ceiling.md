@@ -1,10 +1,6 @@
+# Market ceiling backdrop
 
-## Canvas
-
-- Exported at integer multiples of 80 only
-- No half-pixel offsets
-
-## Palette
-
-- Up to 8 indexed colors
-- Shadow black reserved
+- Canvas: 320 x 80
+- Frames: 1
+- Palette: Dawn Market (see docs/palette-dawn-market.md)
+- Rendering: image-rendering pixelated, no smoothing
