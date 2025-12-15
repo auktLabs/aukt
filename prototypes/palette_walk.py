@@ -12,3 +12,7 @@ PALETTE = {
 
 def active_outline():
     return pair('cyan', 'bg')
+
+
+def pair(a, b):
+    return (PALETTE[a], PALETTE[b])
