@@ -5,3 +5,7 @@
 ## Update 4
 
 Shadow is a single horizontal band, two pixels tall, offset one pixel to the east. No soft falloff. The hall floor already carries the mood.
+
+## Update 3
+
+Headband stripe is never pure white. Drop saturation by a notch so it does not punch through the fluorescent light behind him.
