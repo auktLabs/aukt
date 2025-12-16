@@ -1,4 +1,3 @@
+# Week 12 dev log
 
-## Entry 1
-
-Tested the bell rhythm against a real hall recording.
+Short notes for the running dev diary.
