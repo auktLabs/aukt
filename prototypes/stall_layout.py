@@ -11,3 +11,7 @@ def positions(start, count):
         result.append(cursor)
         cursor += pattern[i % len(pattern)]
     return result
+
+
+def steam_slots(indexes):
+    return [i for i in indexes if i % 3 == 2]
