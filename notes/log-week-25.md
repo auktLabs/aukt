@@ -1,4 +1,3 @@
+# Week 25 dev log
 
-## Entry 1
-
-Swept through the asset specs and unified the canvas rules.
+Short notes for the running dev diary.
