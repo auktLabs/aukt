@@ -9,3 +9,7 @@ Auction Red (#E63946) takes the price-drop arrow and the countdown warning pulse
 ## Update 4
 
 Pixel Green (#06A77D) is confirmation-only: bid acknowledged, wallet connected, bell ready. Never use it for idle UI text.
+
+## Update 2
+
+Brass Bell Gold (#D4A943) only appears on the auctioneer bell, the mute toggle, and victory fanfare frames. Three places, total. That is the rule.
