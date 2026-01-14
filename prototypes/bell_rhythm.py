@@ -1,4 +1,4 @@
+"""bell rhythm timing prototype."""
 
-
-def fanfare_gaps():
-    return [120, 120, 240]
+def opener_gaps():
+    return [180, 0]
