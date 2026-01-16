@@ -1,6 +1,3 @@
+"""sprite bounding box checks."""
 
-
-PLAYER = {'w': 24, 'h': 40, 'frames': 8}
-
-
-STALL = {'w': 96, 'h': 128, 'frames': 1}
+AUCTIONEER = {'w': 32, 'h': 48, 'frames': 10}
