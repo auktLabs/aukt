@@ -1,8 +1,3 @@
+# Week 15 dev log
 
-## Entry 3
-
-Hit a snag with parallax drift at sprint speed; logged a fix.
-
-## Entry 1
-
-Reworked the stall spacing pattern after a playtest.
+Short notes for the running dev diary.
