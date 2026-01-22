@@ -9,3 +9,9 @@
 
 - Up to 8 indexed colors
 - Shadow black reserved
+
+## Timing
+
+- Frame count: 1
+- Each frame holds two ticks at 60fps
+- Loop is seamless
