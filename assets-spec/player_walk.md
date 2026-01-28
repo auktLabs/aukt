@@ -9,3 +9,8 @@
 
 - Exported at integer multiples of 24 only
 - No half-pixel offsets
+
+## Palette
+
+- Up to 8 indexed colors
+- Shadow black reserved
