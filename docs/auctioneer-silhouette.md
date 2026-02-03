@@ -9,3 +9,7 @@ Shadow is a single horizontal band, two pixels tall, offset one pixel to the eas
 ## Update 3
 
 Headband stripe is never pure white. Drop saturation by a notch so it does not punch through the fluorescent light behind him.
+
+## Update 1
+
+Idle loop holds four frames: calm, small bell sway, deep breath, micro lean. Each frame sits on two ticks so the whole cycle is eight ticks.
