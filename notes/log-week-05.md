@@ -1,4 +1,3 @@
+# Week 05 dev log
 
-## Entry 2
-
-Drafted the mute toggle pixel art in three variations.
+Short notes for the running dev diary.
