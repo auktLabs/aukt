@@ -9,3 +9,9 @@
 - Silhouette reads at 1x
 - No anti-aliasing
 - File size under 48 KB
+
+## Timing
+
+- Frame count: 6
+- Each frame holds two ticks at 60fps
+- Loop is seamless
