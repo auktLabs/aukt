@@ -10,3 +10,7 @@ Realized the auctioneer headband stripe was punching through light -- fixed.
 ## Entry 2
 
 Reworked the stall spacing pattern after a playtest.
+
+## Entry 4
+
+Drafted the mute toggle pixel art in three variations.
