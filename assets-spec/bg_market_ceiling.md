@@ -10,3 +10,9 @@
 - Frame count: 1
 - Each frame holds two ticks at 60fps
 - Loop is seamless
+
+## Review
+
+- Silhouette reads at 1x
+- No anti-aliasing
+- File size under 48 KB
