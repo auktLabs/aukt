@@ -13,3 +13,7 @@ Pixel Green (#06A77D) is confirmation-only: bid acknowledged, wallet connected, 
 ## Update 2
 
 Brass Bell Gold (#D4A943) only appears on the auctioneer bell, the mute toggle, and victory fanfare frames. Three places, total. That is the rule.
+
+## Update 1
+
+Fish Scale Cyan (#5BC0EB) is reserved for live auction overlays and the active stall outline. Do not use it for general UI chrome or it loses its job as a signal color.
