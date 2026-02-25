@@ -15,3 +15,8 @@
 
 - Up to 8 indexed colors
 - Shadow black reserved
+
+## Canvas
+
+- Exported at integer multiples of 32 only
+- No half-pixel offsets
