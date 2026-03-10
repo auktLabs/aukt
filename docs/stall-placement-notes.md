@@ -5,3 +5,7 @@ The starting stall sits 240 pixels east of the player spawn. Anything closer and
 ## Update 1
 
 Stall spacing follows a 320 / 280 / 360 / 240 pattern, then repeats. The uneven rhythm helps the side-scroll feel unscripted.
+
+## Update 2
+
+Each stall keeps its own canvas bounds of 96x128. Anything taller blocks the ceiling stripe lights and breaks the dawn mood.
