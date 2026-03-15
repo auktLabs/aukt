@@ -1,16 +1,6 @@
+# Player walk sheet
 
-## Review
-
-- Silhouette reads at 1x
-- No anti-aliasing
-- File size under 48 KB
-
-## Canvas
-
-- Exported at integer multiples of 24 only
-- No half-pixel offsets
-
-## Palette
-
-- Up to 8 indexed colors
-- Shadow black reserved
+- Canvas: 24 x 40
+- Frames: 6
+- Palette: Dawn Market (see docs/palette-dawn-market.md)
+- Rendering: image-rendering pixelated, no smoothing
