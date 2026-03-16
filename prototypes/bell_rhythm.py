@@ -6,3 +6,7 @@ def opener_gaps():
 
 def night_volume(hour, base=1.0):
     return base * 0.8 if hour >= 22 or hour < 5 else base
+
+
+def missed_clank():
+    return 'clank-soft'
