@@ -9,3 +9,7 @@ Stall spacing follows a 320 / 280 / 360 / 240 pattern, then repeats. The uneven 
 ## Update 2
 
 Each stall keeps its own canvas bounds of 96x128. Anything taller blocks the ceiling stripe lights and breaks the dawn mood.
+
+## Update 4
+
+Every third stall gets a plume of steam. The plume is decorative only. Do not let it occlude the price ticker.
