@@ -15,3 +15,8 @@
 - Frame count: 1
 - Each frame holds two ticks at 60fps
 - Loop is seamless
+
+## Canvas
+
+- Exported at integer multiples of 96 only
+- No half-pixel offsets
