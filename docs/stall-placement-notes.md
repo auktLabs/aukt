@@ -13,3 +13,7 @@ Each stall keeps its own canvas bounds of 96x128. Anything taller blocks the cei
 ## Update 4
 
 Every third stall gets a plume of steam. The plume is decorative only. Do not let it occlude the price ticker.
+
+## Update 3
+
+Signage sits two tiles above the stall counter. Auction Red lettering at 4x scale on Press Start 2P.
