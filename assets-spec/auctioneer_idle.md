@@ -20,3 +20,9 @@
 
 - Exported at integer multiples of 32 only
 - No half-pixel offsets
+
+## Timing
+
+- Frame count: 4
+- Each frame holds two ticks at 60fps
+- Loop is seamless
