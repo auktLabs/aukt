@@ -15,3 +15,8 @@ def linear_tick(value, drop):
 
 def tick_window(bps, ms_per_tick):
     return [i * ms_per_tick for i in range(bps)]
+
+
+def exp_decay(start, floor, k, t):
+    gap = start - floor
+    return floor + gap * pow(2.718281828, -k * t)
