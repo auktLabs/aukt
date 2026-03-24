@@ -15,3 +15,8 @@
 - Frame count: 6
 - Each frame holds two ticks at 60fps
 - Loop is seamless
+
+## Palette
+
+- Up to 8 indexed colors
+- Shadow black reserved
