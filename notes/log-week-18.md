@@ -1,12 +1,3 @@
+# Week 18 dev log
 
-## Entry 3
-
-Drafted the mute toggle pixel art in three variations.
-
-## Entry 4
-
-Playtested one full market run in 14 minutes. Good baseline.
-
-## Entry 1
-
-Balanced the SFX budget by cutting two overlapping loops.
+Short notes for the running dev diary.
