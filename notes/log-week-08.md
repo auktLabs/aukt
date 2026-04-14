@@ -5,3 +5,7 @@ Short notes for the running dev diary.
 ## Entry 2
 
 Started tracking missed bids by stall to see if the decay is too steep.
+
+## Entry 3
+
+Cleaned up the palette reference so the mid-hall layer stops clashing.
