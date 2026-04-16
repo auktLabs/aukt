@@ -9,3 +9,7 @@ Started tracking missed bids by stall to see if the decay is too steep.
 ## Entry 3
 
 Cleaned up the palette reference so the mid-hall layer stops clashing.
+
+## Entry 1
+
+Rewrote the fanfare so the win feels earned rather than loud.
