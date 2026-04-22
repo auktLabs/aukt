@@ -111,7 +111,7 @@ Everything below is already coded and shipped. These are not future promises —
 - `[BUILT · WALKING NOW]` Pixel hall — side-scrolling 16-bit market with parallax stalls, auctioneer animations, and live BGM. Live at `aukt.fun`.
 - `[BUILT · CA OPENING]` $AUKT token — pump.fun fair launch, no presale, no team allocation. CA badge auto-pins to the header the moment the mint goes live.
 - `[BUILT · BROADCASTING]` Telegram bell — `@aukt_market_bot` polling live, inline-keyboard subscribe flow, pings on every new stall.
-- `[BUILT · MAINNET FLIP NEXT]` Anchor Dutch auction program — already running on Solana devnet (`Eq2KsgCrVA7MVHXVmNycMoKGHyeUqQfSSVPvshu9THfJ`), validated end-to-end. Mainnet redeploy is a single env swap away.
+- `[BUILT · LIVE ON MAINNET]` Anchor Dutch auction program — running on Solana mainnet, validated end-to-end. The devnet build (`Eq2KsgCrVA7MVHXVmNycMoKGHyeUqQfSSVPvshu9THfJ`) is kept around for staging.
 - `[BUILT · OPENS ON FLAG]` Creator launchpad — `/launch` form, burn helpers, `create_auction` instruction wired end-to-end. Flips on the day the auction-live flag turns true.
 
 ## Contact
